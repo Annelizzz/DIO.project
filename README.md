@@ -1,2 +1,2 @@
 # DIO.project
-Modelo de previsao
+Modelo de previsao.AI
